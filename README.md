@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **system development**
 
-- 🌱 I’m currently learning **Human Computer interaction **
+- 🌱 I’m currently learning **Human Computer interaction**
 
 - 📫 How to reach me **ammarwael73@gmail.com**
 
